@@ -73,4 +73,5 @@
 - [ ] 11.1 Docker containerization
 - [ ] 11.2 Logging and monitoring
 - [ ] 11.3 Error handling and retry logic
-- [ ] 11.4 Deployment documentation 
+- [ ] 11.4 Deployment documentation
+- [x] 11.5 Create README.md with project overview and usage guide 

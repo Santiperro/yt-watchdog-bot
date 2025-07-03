@@ -230,6 +230,7 @@ docker run -d --env-file .env yt-watchdog-bot
 - ✅ Added token encryption utilities
 - ✅ Implemented middleware for access control and secure logging
 - ✅ Created SECRET_KEY validation and security checks
+- ✅ Created README.md with project overview and usage instructions
 
 ### Plans for Next Versions
 - v0.2.0: Basic authentication and YouTube API
